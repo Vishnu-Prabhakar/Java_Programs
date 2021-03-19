@@ -42,7 +42,6 @@ class ArrayList1 {
 		Byte b= 12;//byte
 		Short s;//short
 		ArrayList<Integer> integerLst = new ArrayList<>();
-		//ArrayList<int> intList = new ArrayList<>();
 		
 		integerLst.add(1);
 		integerLst.add(2);
@@ -56,7 +55,7 @@ class ArrayList1 {
 		//integerLst.remove(4);
 		System.out.println(integerLst);
 		
-		list.add("Ravi");// Adding object in arraylist
+		list.add("Ravi");
 		list.add("Vijay");
 		list.add("Ravi");
 		list.add("Ajay");
