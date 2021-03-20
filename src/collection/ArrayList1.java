@@ -60,7 +60,6 @@ class ArrayList1 {
 		list.add("Ravi");
 		list.add("Ajay");
 		list.add(null);
-		// Invoking arraylist object
 		System.out.println(list);
 		
 		
