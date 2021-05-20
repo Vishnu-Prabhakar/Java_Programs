@@ -3,7 +3,7 @@ package abstractExample;
 abstract class Bike {
 	abstract void run();
 	void testBike(){
-		System.out.println("ji");
+		System.out.println("testing bike");
 	}
 }
 
