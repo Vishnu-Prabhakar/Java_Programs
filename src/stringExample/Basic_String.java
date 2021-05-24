@@ -5,7 +5,6 @@ public class Basic_String {
 	public static void main(String args[]) {
 
 		char[] ch = { 'j', 'a', 'v', 'a', 't', 'p', 'o', 'i', 'n', 't' };
-		//System.out.println(ch);
 
 		String s = "Sachin";
 		String s1 = "Sachin";
