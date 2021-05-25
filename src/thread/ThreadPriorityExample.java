@@ -13,8 +13,10 @@ public class ThreadPriorityExample {
 		TestMultiPriority1 m1 = new TestMultiPriority1();
 		TestMultiPriority1 m2 = new TestMultiPriority1();
 		m1.setName("m1");
+		// MIN_MIN_PRIORITY : 1
 		m1.setPriority(Thread.MIN_PRIORITY);
 		m2.setName("m2");
+		// NORM_PRIORITY : 5
 		m2.setPriority(Thread.NORM_PRIORITY);
 		m1.start();
 		m2.start();
