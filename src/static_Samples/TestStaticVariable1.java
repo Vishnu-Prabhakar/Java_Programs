@@ -1,4 +1,4 @@
-package Static_Samples;
+package static_Samples;
 
 class Student {
 	int rollno;// instance variable

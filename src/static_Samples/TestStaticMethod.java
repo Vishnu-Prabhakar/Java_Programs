@@ -1,4 +1,4 @@
-package Static_Samples;
+package static_Samples;
 
 //Test class to create and display the values of object  
 public class TestStaticMethod {
