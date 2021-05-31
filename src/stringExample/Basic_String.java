@@ -14,6 +14,7 @@ public class Basic_String {
 		System.out.println(s.concat(" Tendulkar"));
 		
 		System.out.println("Fourth output:" + s);
+		System.out.println("String isEmpty{}: "+s.isEmpty());
 
 		String s2 = "Sachin";
 		String s3="Ratan";  
